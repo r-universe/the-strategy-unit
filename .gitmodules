@@ -5,3 +5,9 @@
 [submodule "StrategyUnitTheme"]
 	path = StrategyUnitTheme
 	url = https://github.com/The-Strategy-Unit/StrategyUnitTheme
+[submodule "azkit"]
+	path = azkit
+	url = https://github.com/The-Strategy-Unit/azkit
+[submodule "reskit"]
+	path = reskit
+	url = https://github.com/The-Strategy-Unit/nhp_reskit
