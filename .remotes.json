@@ -1,8 +1,0 @@
-[
-  {
-    "package": "azkit",
-    "url": "https://github.com/The-Strategy-Unit/azkit",
-    "via": ["reskit"],
-    "from": "reskit"
-  }
-]
